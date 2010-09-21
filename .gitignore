@@ -1,0 +1,15 @@
+design
+
+deps
+ebin
+bin
+
+priv/log
+priv/binaries
+
+*.lnk
+
+couchdb.*
+
+start-dev.sh
+start-dev-detached.sh
